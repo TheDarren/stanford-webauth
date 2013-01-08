@@ -8,9 +8,7 @@ general information about WebAuth, see:
 
 This module assumes:
 
-- You have the wallet module.
-
-- You have the WebAuth module and the WebAuth keytab can be downloaded by using
+- You have the wallet module and the WebAuth keytab can be downloaded by using
   the server's host keytab with wallet. 
 
 - You have Stanford repositories configured for RHEL to have access to the
@@ -23,8 +21,8 @@ License
 
 The Stanford WebAuth puppet module is released under the following license:
 
-    Copyright 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012
-    The Board of Trustees of the Leland Stanford Junior University.
+    Copyright 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012,
+    2013 The Board of Trustees of the Leland Stanford Junior University.
 
     Permission is hereby granted, free of charge, to any person obtaining a
     copy of this software and associated documentation files (the "Software"),
